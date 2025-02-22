@@ -6,8 +6,6 @@
 
 <h2 align="center">Hi 👋 This is Nandhitha's Github Profile</h2>
 
----
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nandhitha-s&theme=blueberry&show_icons=true&hide_border=true&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandhitha-s&theme=blueberry&hide_border=true" />
